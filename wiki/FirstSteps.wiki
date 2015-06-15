@@ -10,8 +10,8 @@ You need:
 = Do it by yourself =
 
 If you like to create the Arduino-to-XMC project by yourself, just follow this two tutorials:
- # [http://code.google.com/p/arduino-to-xmc/wiki/HowToCreateLowLevelDriver_XMC1300 How to create Low Level Driver]
- # [http://code.google.com/p/arduino-to-xmc/wiki/HowToCreateArduino_to_XMC1100 How to create Arduino_to_XMC1100]
+ # [http://code.google.com/p/arduino-to-xmc/wiki/HowToCreateLowLevelDriver_XMC1300 How to create Low Level Driver for XMC1300]
+ # [http://code.google.com/p/arduino-to-xmc/wiki/HowToCreateArduino_to_XMC1100 How to create Low Level Driver for XMC1100]
 
 
 == Arduino to XMC Library ==
