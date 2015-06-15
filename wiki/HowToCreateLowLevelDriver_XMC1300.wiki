@@ -1,4 +1,4 @@
-#summary How to create the Low Level Driver for XMC1100 via DAvE
+#summary How to create the Low Level Driver for XMC1300 via DAvE
 #labels LowLevelDriverforXMC1100,Arduino
 
 = Introduction =
